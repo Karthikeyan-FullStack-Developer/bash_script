@@ -6,7 +6,7 @@ To execute reactjs bash script
 Open Git bash on windows
 
 
-chmod +x <filename>
+chmod +x filename.sh
 
 
-./<filename> <projectname>
+./filename.sh projectname
